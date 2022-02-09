@@ -1,0 +1,8 @@
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\NrAleatorioex2\NrAleatorioex2\obj\Debug\NrAleatorioex2.csproj.AssemblyReference.cache
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\NrAleatorioex2\NrAleatorioex2\obj\Debug\NrAleatorioex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\NrAleatorioex2\NrAleatorioex2\obj\Debug\NrAleatorioex2.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\NrAleatorioex2\NrAleatorioex2\bin\Debug\NrAleatorioex2.exe.config
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\NrAleatorioex2\NrAleatorioex2\bin\Debug\NrAleatorioex2.exe
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\NrAleatorioex2\NrAleatorioex2\bin\Debug\NrAleatorioex2.pdb
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\NrAleatorioex2\NrAleatorioex2\obj\Debug\NrAleatorioex2.exe
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\NrAleatorioex2\NrAleatorioex2\obj\Debug\NrAleatorioex2.pdb

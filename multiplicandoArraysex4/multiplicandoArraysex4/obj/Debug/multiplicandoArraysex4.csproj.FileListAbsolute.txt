@@ -1,0 +1,8 @@
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\multiplicandoArraysex4\multiplicandoArraysex4\bin\Debug\multiplicandoArraysex4.exe.config
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\multiplicandoArraysex4\multiplicandoArraysex4\bin\Debug\multiplicandoArraysex4.exe
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\multiplicandoArraysex4\multiplicandoArraysex4\bin\Debug\multiplicandoArraysex4.pdb
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\multiplicandoArraysex4\multiplicandoArraysex4\obj\Debug\multiplicandoArraysex4.csproj.AssemblyReference.cache
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\multiplicandoArraysex4\multiplicandoArraysex4\obj\Debug\multiplicandoArraysex4.csproj.SuggestedBindingRedirects.cache
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\multiplicandoArraysex4\multiplicandoArraysex4\obj\Debug\multiplicandoArraysex4.csproj.CoreCompileInputs.cache
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\multiplicandoArraysex4\multiplicandoArraysex4\obj\Debug\multiplicandoArraysex4.exe
+C:\Users\keith\OneDrive\Área de Trabalho\Teste Tecnico  GFT\multiplicandoArraysex4\multiplicandoArraysex4\obj\Debug\multiplicandoArraysex4.pdb
